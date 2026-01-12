@@ -1,4 +1,17 @@
 # Kuchli Web Scanner — GUI Desktop ilova (Rust + Tauri)
+<h2 align="center">🚀 Webscan — Rust + Tauri SOC Scanner</h2>
+
+<p align="center">
+  <img src="Webscan.png" alt="Webscan SOC Interface" width="900">
+</p>
+
+<p align="center">
+  <em>High‑performance SOC‑style Web Scanner built with Rust & Tauri</em>
+</p>
+
+<p align="center">
+  <img src="Rust.gif" alt="Live scanning demo" width="700">
+</p>
 
 Kuchli Web Scanner — bu Rust va Tauri yordamida yaratilgan, zamonaviy veb-ilovalarni tezda tekshirish va skanerlash uchun mo'ljallangan GUI desktop dasturi. Ilova tez, xavfsiz va mahalliy (native) tajriba taqdim etadi: Rust ishlovchi qismi yuqori samaradorlik va xavfsizlikni ta'minlaydi, frontend esa Tauri orqali chiroyli va yengil grafik interfeys bilan birlashadi.
 
